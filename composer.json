@@ -1,0 +1,12 @@
+{
+  "name": "mizzle/redis",
+  "description": "This is My Redis Test Version",
+  "authors": [
+    {
+      "name": "mizzle"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}
